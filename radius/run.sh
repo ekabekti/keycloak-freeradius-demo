@@ -6,5 +6,4 @@ docker run \
    --name my-radius \
    -p 1812-1812/udp \
    -p 1813-1813/udp \
-   -it tdlabs/freeradius-server:latest \
-   -b 0.0.0.0 \
+    tdlabs/freeradius-server:latest \
