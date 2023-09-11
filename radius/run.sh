@@ -8,3 +8,4 @@ docker run \
    -p 1812-1813:1812-1813/udp \
    tdlabs/freeradius-server:latest \
    
+   popd
