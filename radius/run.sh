@@ -1,7 +1,7 @@
 #!/bin/bash
 
 docker run \
-   -d\
+   -d \
    -t \
    --rm \
    --net=host \
